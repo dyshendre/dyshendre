@@ -10,7 +10,7 @@
 - 📫 How to reach me <b>( dyshendre@gmail.com )</b> : Check social links below.
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/dinesh-shendre-00030723b/) ]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-shendre-00030723b/)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codepur_ka_superhero)  -->
 
 ## 💻 Tech Stack
