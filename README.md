@@ -6,7 +6,7 @@
 # 💫 About Me : 
 - 🌱 I’m currently learning more about JAVA.
 - 👯 I’m looking to collaborate on Backend Projects.
-- 👨‍💻 All of my projects are available at **[My Portfolio][https://dyshendre.github.io/]**
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio][https://dyshendre.github.io/]** -->
 - 📫 How to reach me <b>( dyshendre@gmail.com )</b> : Check social links below.
 
 ## 🌐 Socials
