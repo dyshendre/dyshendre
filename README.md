@@ -6,7 +6,7 @@
 <h3 align="center">Java Backend Developer | Spring Boot & AWS Cloud | GenAI Explorer</h3>
 
 # 💫 About Me :
-- 🔭 I'm currently working as a **Software Engineer II** at **Flentas Technologies, Pune**, building backend systems with Java & Spring Boot.
+- 🔭 I'm currently working as a **Software Engineer-II** at **Flentas Technologies, Pune**, building backend systems with Java & Spring Boot.
 - ☁️ AWS Certified **Solutions Architect (Associate)**, **AI Practitioner**, and **Data Engineer (Associate)**.
 - 🌱 I'm currently exploring **Generative AI** — LangChain, LangGraph, AWS Bedrock, MCP, and AI Agents.
 - 🤖 Working on a **DPDP Compliance Solution** combining Data Privacy with GenAI-driven policy enforcement (using Open Policy Agent).
